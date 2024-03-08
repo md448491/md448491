@@ -1,15 +1,14 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Tiktokerzy
+email: md448491@students.mimuw.edu.pl
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  strona o tiktokerach
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://md448491.github.io/ # the base hostname & protocol for your site
+git_address: https://github.com/md448491/md448491.github.io/
+git_edit_address: https://github.com/md448491/md448491.github.io/
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
